@@ -1,6 +1,6 @@
 timescale 1ns / 1ps
 `include "sub_design_file.v"
-// File name : mul_d2.v
+// File name : Design.v
 //
 // Author : Lopelli Shiva Nagender Rao
 //
